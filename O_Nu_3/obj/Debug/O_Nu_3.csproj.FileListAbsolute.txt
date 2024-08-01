@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\O_Nu_3\O_Nu_3\bin\Debug\O_Nu_3.exe.config
+C:\Users\Admin\source\repos\O_Nu_3\O_Nu_3\bin\Debug\O_Nu_3.exe
+C:\Users\Admin\source\repos\O_Nu_3\O_Nu_3\bin\Debug\O_Nu_3.pdb
+C:\Users\Admin\source\repos\O_Nu_3\O_Nu_3\obj\Debug\O_Nu_3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\O_Nu_3\O_Nu_3\obj\Debug\O_Nu_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\O_Nu_3\O_Nu_3\obj\Debug\O_Nu_3.exe
+C:\Users\Admin\source\repos\O_Nu_3\O_Nu_3\obj\Debug\O_Nu_3.pdb
